@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DMap</string>
+    <string name="main_search_weather_text">查询天气</string>
+    <string name="main_search_poi_text">查询</string>
+</resources>
